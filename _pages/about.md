@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master student @ KAIST
+subtitle: 1
 profile:
   align: right
-  image: bwpark.jpg
+  image: 1.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -17,14 +17,5 @@ social: false  # includes social icons at the bottom of the page
 1
 
 <strong>Contact: </strong>
-      bw.park [at] kaist [dot] ac [dot] kr
+      1
 <br>
-<strong>Follow: </strong>
-      <a href="https://scholar.google.com/citations?user=MWCPYLMAAAAJ&hl" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-      <strong> | </strong>
-      <a href="https://www.linkedin.com/in/byoungwoo-park-a418391a9/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn</a>
-      <strong> | </strong>
-      <a href="https://github.com/bw-park" target="_blank" title="GitHub"><i class="fab fa-github"></i> bw-park</a>
-      <strong> | </strong>
-      <a href="https://x.com/bw__park" target="_blank" title="GitHub"><i class="fab fa-x-twitter"></i> @bw__park</a>
-<br><br>
